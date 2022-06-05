@@ -4,77 +4,77 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>https://nfu40923208.github.io/cd2022/blog/index.html/</loc>
-<lastmod>2022-06-02T14:05:02-00:00</lastmod>
+<loc>./</loc>
+<lastmod>2022-06-05T20:23:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://nfu40923208.github.io/cd2022/blog/index.html/archives.html</loc>
-<lastmod>2022-06-02T14:05:02-00:00</lastmod>
+<loc>./archives.html</loc>
+<lastmod>2022-06-05T20:23:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://nfu40923208.github.io/cd2022/blog/index.html/tags.html</loc>
-<lastmod>2022-06-02T14:05:02-00:00</lastmod>
+<loc>./tags.html</loc>
+<lastmod>2022-06-05T20:23:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://nfu40923208.github.io/cd2022/blog/index.html/categories.html</loc>
-<lastmod>2022-06-02T14:05:02-00:00</lastmod>
+<loc>./categories.html</loc>
+<lastmod>2022-06-05T20:23:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://nfu40923208.github.io/cd2022/blog/index.html/pages/about/</loc>
+<loc>./pages/about/</loc>
 <lastmod>2022-05-08T14:45:39+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://nfu40923208.github.io/cd2022/blog/index.html/w3_40923208.html</loc>
+<loc>./w3_40923208.html</loc>
 <lastmod>2022-06-02T14:04:44+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://nfu40923208.github.io/cd2022/blog/index.html/w7_summary.html</loc>
+<loc>./w7_summary.html</loc>
 <lastmod>2022-05-08T14:45:39+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://nfu40923208.github.io/cd2022/blog/index.html/category/misc.html</loc>
+<loc>./category/misc.html</loc>
 <lastmod>2022-06-02T14:04:44+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://nfu40923208.github.io/cd2022/blog/index.html/tag/nx1980-youtubeying-pian-jie-shao.html</loc>
+<loc>./tag/nx1980-youtubeying-pian-jie-shao.html</loc>
 <lastmod>2022-06-02T14:04:44+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://nfu40923208.github.io/cd2022/blog/index.html/tag/2022springcd.html</loc>
+<loc>./tag/2022springcd.html</loc>
 <lastmod>2022-05-08T14:45:39+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://nfu40923208.github.io/cd2022/blog/index.html/author/40923208.html</loc>
+<loc>./author/40923208.html</loc>
 <lastmod>2022-06-02T14:04:44+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
