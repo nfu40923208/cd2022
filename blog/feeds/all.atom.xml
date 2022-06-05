@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2022-06-02T14:04:44+08:00</updated><entry><title>w3</title><link href="./w3_40923208.html" rel="alternate"></link><published>2022-04-01T11:00:00+08:00</published><updated>2022-06-02T14:04:44+08:00</updated><author><name>40923208</name></author><id>tag:None,2022-04-01:./w3_40923208.html</id><summary type="html">&lt;p&gt;nx1980 youtube影片介紹&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2022-06-05T20:31:03+08:00</updated><entry><title>W3</title><link href="./w3.html" rel="alternate"></link><published>2022-04-01T11:00:00+08:00</published><updated>2022-06-05T20:31:03+08:00</updated><author><name>40923208</name></author><id>tag:None,2022-04-01:./w3.html</id><summary type="html">&lt;p&gt;nx1980 youtube影片介紹&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;nx1980 youtube影片介紹&lt;/p&gt;
 
 
@@ -99,7 +99,7 @@ var winkVideoData = {
 &lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;hr&gt;</content><category term="Misc"></category><category term="nx1980 youtube影片介紹"></category></entry><entry><title>W7</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-04-01T11:00:00+08:00</published><updated>2022-05-08T14:45:39+08:00</updated><author><name>40923208</name></author><id>tag:None,2022-04-01:./w7_summary.html</id><summary type="html">&lt;p&gt;2022-Spring-CD&lt;/p&gt;
+&lt;hr&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W7</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-04-01T11:00:00+08:00</published><updated>2022-05-08T14:45:39+08:00</updated><author><name>40923208</name></author><id>tag:None,2022-04-01:./w7_summary.html</id><summary type="html">&lt;p&gt;2022-Spring-CD&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2022-Spring-CD&lt;/p&gt;
 
 
