@@ -140,6 +140,15 @@ img.add_border {
           
         </header>
     <div id="tipue_search_content">w6 << <a href='w6.html'>Previous</a> <a href='w8.html'>Next</a> >> w8<br /><h1>w7</h1>
+<p>設法以隨身程式系統編譯此程式碼<span>:</span></p>
+<p><span>1.git clone <a href="https://github.com/mdecourse/scarysim.git">https://github.com/mdecourse/scarysim.git</a></span></p>
+<p>2.修改<span> scarysim.pro, </span>蓋掉第<span> 11 </span>行<span>, </span>成為<span> # LIBS     += -lglut -lGLU</span></p>
+<p><span>3.cd scarysim</span></p>
+<p><span>4.qmake -o Makefile scarysim.pro</span></p>
+<p><span>5.mingw32-make -f Makefile.Release </span>可以在<span> release </span>目錄取得<span> scarysim.exe</span></p>
+<p>6.因為<span> scarysim.exe </span>執行需要<span> base.obj, arm1.obj, arm2.obj, arm3.obj </span>等零件外型檔案<span>, </span>以及對應的<span> .mtl </span>材質檔案<span>, </span>因此可將<span> scarysim.exe </span>移至倉儲根目錄<span>, </span>並且需要<span> msys64_20210419\mingw64\bin </span>路徑中的<span> dll </span>動態連結程式庫配合執行<span>.</span></p>
+<p>7.由於此套程式碼在<span> Target </span>模式下<span>, </span>零組件間會造成干涉<span>, </span>表示其<span> Inverse Kinematic </span>運算並不正確<span>, </span>請設法修正此錯誤後<span>, </span>修改其零件尺寸與操作控制方法<span>, </span>設法模擬<span> MTB </span>的<span> Pick and Place demo </span>範例<span>.</span></p>
+<p>8.請各組指定組員分別利用<span> Solvespace</span>、<span>NX12</span>、<span>NX1980</span>、<span>NX2008 </span>與<span> Onshape </span>繪製<span> Pick and Place demo </span>範例所需的零組件<span>, </span>並完成<span> Coppeliasim 4.1.0</span>、<span>4.2.0 </span>與<span> 4.3.0 </span>版的<span> MTB </span>機械手臂<span> Pick and Place </span>模擬<span>, </span>完成後請說明在使用不同<span> MCAD </span>系統與版次的情況下<span>, </span>該如何執行協同產品設計專案<span>.</span></p>
 </div>
 </div>
 <br />w6 << <a href='w6.html'>Previous</a> <a href='w8.html'>Next</a> >> w8</div>
